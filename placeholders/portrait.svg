@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="650" viewBox="0 0 520 650">
+  <defs><linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2b0a3d"/><stop offset="50%" stop-color="#7621B0"/><stop offset="100%" stop-color="#B600A8"/></linearGradient>
+    <linearGradient id="sil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.22)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.06)"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="650" fill="url(#g0)"/>
+  <g fill="url(#sil)">
+    <circle cx="260" cy="250" r="100"/>
+    <path d="M110 650 Q110 460 260 460 Q410 460 410 650 Z"/>
+  </g>
+  <text x="50%" y="50%" fill="rgba(255,255,255,0.85)" font-family="Kanit, sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="middle">你的照片</text>
+  <text x="50%" y="56%" fill="rgba(255,255,255,0.5)" font-family="Kanit, sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">替换为肖像图</text>
+</svg>
